@@ -1,6 +1,6 @@
-# ☕ **ProjectName** Smart Contract
+# ☕ **Subscription-System-Core** Smart Contract
 
-A simple smart contract that lets users support creators by "buying a coffee" (sending ETH with a message). Built using Solidity and Hardhat, deployable on Core Blockchain networks.
+This repository provides a smart contract framework that enables users to support creators by "buying a coffee"—a metaphorical transaction where users send Ethereum (ETH) along with a personal message. The project leverages Solidity and Hardhat for smart contract development and testing, ensuring compatibility with Core Blockchain networks.
 
 ---
 
@@ -9,7 +9,7 @@ A simple smart contract that lets users support creators by "buying a coffee" (s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ProjectName.git
+git clone https://github.com/eviiileyeee/Subscription-System-Core.git
 cd ProjectName
 ```
 
